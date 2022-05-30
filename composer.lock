@@ -1631,16 +1631,16 @@
         },
         {
             "name": "norkunas/onesignal-php-api",
-            "version": "v2.8.0",
+            "version": "v2.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/norkunas/onesignal-php-api.git",
-                "reference": "17ee48b5dc665e9f00d7e9d0465ae90b8486b9ef"
+                "reference": "0dddeca25bc2da90bbfcdfb532c2e5a088afe905"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/norkunas/onesignal-php-api/zipball/17ee48b5dc665e9f00d7e9d0465ae90b8486b9ef",
-                "reference": "17ee48b5dc665e9f00d7e9d0465ae90b8486b9ef",
+                "url": "https://api.github.com/repos/norkunas/onesignal-php-api/zipball/0dddeca25bc2da90bbfcdfb532c2e5a088afe905",
+                "reference": "0dddeca25bc2da90bbfcdfb532c2e5a088afe905",
                 "shasum": ""
             },
             "require": {
@@ -1693,9 +1693,9 @@
             ],
             "support": {
                 "issues": "https://github.com/norkunas/onesignal-php-api/issues",
-                "source": "https://github.com/norkunas/onesignal-php-api/tree/v2.8.0"
+                "source": "https://github.com/norkunas/onesignal-php-api/tree/v2.9.0"
             },
-            "time": "2021-12-02T09:21:28+00:00"
+            "time": "2022-05-24T12:41:47+00:00"
         },
         {
             "name": "nyholm/psr7",
