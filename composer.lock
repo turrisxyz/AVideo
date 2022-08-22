@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a1388b72c7285705f9d057cd33646a80",
+    "content-hash": "b830e9cdc1a225ab4eb6b538c0ac0fc6",
     "packages": [
         {
             "name": "abraham/twitteroauth",
@@ -3303,16 +3303,16 @@
         },
         {
             "name": "stripe/stripe-php",
-            "version": "v8.2.0",
+            "version": "v9.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stripe/stripe-php.git",
-                "reference": "47cfc4046e2b4b8d861e18dfcf6e74eea8f99374"
+                "reference": "19218fbe744b8fc05ca2d0afcd36d3eaf0fadb9d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/47cfc4046e2b4b8d861e18dfcf6e74eea8f99374",
-                "reference": "47cfc4046e2b4b8d861e18dfcf6e74eea8f99374",
+                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/19218fbe744b8fc05ca2d0afcd36d3eaf0fadb9d",
+                "reference": "19218fbe744b8fc05ca2d0afcd36d3eaf0fadb9d",
                 "shasum": ""
             },
             "require": {
@@ -3357,9 +3357,9 @@
             ],
             "support": {
                 "issues": "https://github.com/stripe/stripe-php/issues",
-                "source": "https://github.com/stripe/stripe-php/tree/v8.2.0"
+                "source": "https://github.com/stripe/stripe-php/tree/v9.2.0"
             },
-            "time": "2022-05-20T00:00:52+00:00"
+            "time": "2022-08-19T18:53:38+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",
